@@ -1,3 +1,4 @@
-# https://portfolio.theytrank.repl.co/
+### https://portfolio.theytrank.repl.co/
 
-Credits to https://youtu.be/zX3ikOsQg58
+- old portfolio website
+- credits https://youtu.be/zX3ikOsQg58
